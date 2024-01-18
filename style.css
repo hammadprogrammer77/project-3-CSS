@@ -1,0 +1,115 @@
+
+h1{
+   color: white;
+   background-color: purple;
+   height: 50px;
+   
+}
+
+body{
+    background-color: rgb(26, 16, 16);
+   
+    height: 600px;
+    width: 400px;
+    margin-left: 550px;
+    margin-top: 50px;
+    
+    
+    
+}
+
+    
+div.apple1{
+   height: 100px;
+   border-radius: 1px solid red;
+   font-style: oblique;
+   font-weight: bolder;
+   height: 10px;
+   border-radius: 10px;
+   color: white;
+}
+
+
+
+
+ .abc1{
+         
+        font-weight: bolder;
+        font-size: large;
+
+ }
+
+ .abc1 input {
+    
+    height: 30px;
+    width: 250px;
+    border-color: green;
+ }
+
+ .abc1 :hover{
+   background-color: mediumorchid;
+ }
+
+
+
+ .abc2 {
+    font-weight: bolder;
+    font-size: large;
+
+ }
+ 
+
+
+ .abc2 input{
+    
+    height: 30px;
+    width: 250px;
+    border-color: green;
+    
+ }
+
+.abc2 :hover{
+   background-color: mediumorchid;
+}
+
+
+
+ .abc3 {
+   font-weight: bolder;
+    font-size: large;
+ }
+
+ .abc3 input{
+   height: 30px;
+   width: 250px;
+   border-color: green;
+   
+} 
+ 
+
+.abc3 :hover{
+   background-color: mediumorchid;
+}
+
+.abc4 {
+   font-weight: bolder;
+   font-size: large;
+}
+
+.abc4 input {
+   height: 30px;
+
+   width: 250px;
+   border-color: green;
+   
+} 
+
+.abc4 :hover{
+   background-color: mediumorchid;
+}
+
+.abc5 :hover{
+
+   background-color: cyan;
+
+}
